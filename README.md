@@ -26,8 +26,7 @@ If you use BSOT, please cite our paper at IEEE Latin America Transactions, "Wide
 
 ## Academic works
 - Book chapter: Análise de Desempenho de Métodos de DOA sujeitos a Modelos de Ruído Impulsivo com Misturas Gaussinas, to appear in Brazilian Journals Publicações;
-
-Filho, J. Marcos Leal B.; Sousa Jr., Vicente A. de ; Pena, Danilo de S. ; Gonsioroski, Leonardo Henrique . CANAL SEM FIOBANDA LARGA: FUNÇÕES DE CARACTERIZAÇÃO E PROTOTIPAGEM EM SOFTWARE. In: Edilson Antonio Catapan. (Org.). Os impactos de estudos voltados para as ciências exatas (Vol. 1). 1ed.São José dos Pinhais: Brazilian Journals Editora, 2020, v. 01, p. 346-390 (DOI: [http://dx.doi.org/10.35587/brj.ed.0000605](http://dx.doi.org/10.35587/brj.ed.0000605)).
+- Filho, J. Marcos Leal B.; Sousa Jr., Vicente A. de ; Pena, Danilo de S. ; Gonsioroski, Leonardo Henrique . CANAL SEM FIOBANDA LARGA: FUNÇÕES DE CARACTERIZAÇÃO E PROTOTIPAGEM EM SOFTWARE. In: Edilson Antonio Catapan. (Org.). Os impactos de estudos voltados para as ciências exatas (Vol. 1). 1ed.São José dos Pinhais: Brazilian Journals Editora, 2020, v. 01, p. 346-390 (DOI: [http://dx.doi.org/10.35587/brj.ed.0000605](http://dx.doi.org/10.35587/brj.ed.0000605)).
 - Paper: J. Marcos Leal B. Filho; Millena Michely de M. Campos ; Vicente A. de Sousa Jr . Técnicas de Sondagem Banda Larga e Ultra-larga. In: IX Fórum de Pesquisa e Inovação, 2019, Brasil. Novos Atores e Cenários em Operações Espaciais, 2019. v. 9. p. 107-109;
 - Master Thesis: J. Marcos Leal B. Filho, Desempenho de algoritmos de localização de sinais de áudio sujeitos a ruído impulsivo (2021) - Federal University of Rio Grande do Norte; 
 
