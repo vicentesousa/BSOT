@@ -34,7 +34,6 @@ If you use BSOT, please cite our paper at IEEE Latin America Transactions, "Wide
 - José Marcos (main developer)
 - Danilo Pena (contributor)
 - Leonardo Gonsioroski (contributor)
-- Millena Michely de M. Campos (contributor)
 - Vicente Sousa (advisor)
 
 ## License
